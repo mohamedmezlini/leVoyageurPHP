@@ -1,0 +1,258 @@
+    /*
+debut menu 
+
+    */
+    .nav-menu-milieu{
+        background-color:  rgb(255, 2, 2);
+        text-align: center;
+        color: #433d45;
+        display: block;
+        padding: 8px 1px 10px;
+
+
+        margin-right: 10%;
+        margin-left: 10%;
+        background: url(../images/menu_bg.png) 0 0 repeat-x #d73430;
+        box-shadow: 3px 3px 3px #FFBE00;
+        border-bottom-right-radius: 4px;
+        border-bottom-left-radius: 4px;
+    }
+
+/*
+ news 
+*/
+    .art-block{background-color: #FB7920 ;
+        border-radius: 8px;
+        padding: 5px;
+        margin-bottom: 10px;
+
+    }   
+
+    .argent-color{ 
+        color: #FF9002;
+        padding-left: 6%;
+        font-style: oblique; 
+
+    }
+
+    .sec-image{
+        margin-top: -2%;
+        margin-left: 5%;
+    }
+
+
+    .carousel-caption {
+        bottom: 20%;
+    }
+
+    .navbar-brand span{
+        text-transform:none;
+        color: #FFBE00; 
+
+        box-shadow: -12px 15px 15px #f0ad4e;
+        font: italic;
+        
+
+    }
+    .navbar-brand :hover{
+
+        color: #FFF;
+    } 
+
+    .carousel-indicators {
+        bottom: 20%;
+    }
+
+    .image-superpose{
+        margin-top: -4%; 
+        
+    }
+/* rouge jaune 
+    */
+    .head1{    
+        font-family: cursive;
+        background-color: #D83632;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        text-overflow: ellipsis;
+        color: #FFBE00;
+        box-shadow: 3px 3px 3px #FFBE00;
+        border-bottom-right-radius: 4px;
+        border-bottom-left-radius: 4px;
+    }
+    .caption .title {
+        font-size: 30px;
+        margin-bottom: 14px;
+        text-transform: uppercase;
+    }
+
+
+
+    .caption{
+        /*right: 49%;*/
+        left: 22%;
+        padding-bottom: 30px;
+        position: absolute;
+        bottom: 25%;
+        padding-left: -18%;
+        z-index: 10;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        color: #fff;
+        text-align: center;
+        text-shadow: 0 1px 2px rgba(0,0,0,.6);
+
+    }
+
+/*
+ detail sur image 
+*/
+    .banner a {
+        font-size: 14px;
+        line-height: 20px;
+        color: rgb(240, 173, 0);
+        text-transform: uppercase;
+        display: inline-block;
+        background-color: #e5e5e5;
+        padding: 5px 18px 4px;
+        margin-top: 25px;
+        border-radius: 13px;
+    }
+
+
+    .carousel-caption .banner a {
+        font-size: 14px;
+        line-height: 20px;
+        color: #E80300;
+        text-transform: uppercase;
+        display: inline-block;
+        background-color: #FFBE00;
+        padding: 5px 18px 4px;
+        margin-top: 25px;
+        border-radius: 13px;
+    }
+    body{
+        background-color:  #E9EAED; 
+
+    }
+    /* les classes */
+    .content-body section {   
+        margin-bottom: 2%;
+        margin-top: 2%;
+        background-color: white; 
+    }
+
+    .content-body section div{
+        margin-right: 0px;  
+
+        background-color: white; 
+    }
+    .content-body section div .art-block{background-color: #FB7920 ;
+        border-radius: 8px;
+
+    }   
+
+    .content-body section div .captionpanier{
+        background-color: transparent;
+    }
+    #apres-carous{
+
+    }
+
+    .alert-danger {
+        color: #FFFFFF;
+        background-color: #E34A49;
+        /* border-color: #337ab7; */
+        border: 3px solid #f0ad4e;
+    }
+    .chev-color{
+
+        color: #FFBE00; 
+    }
+
+    footer a{
+
+        color: #FFBE00; 
+    }
+
+
+    footer a:hover{
+
+        color: #FFF; 
+    }
+
+    footer a:hover i{
+
+        color: #FFF; 
+    }
+
+
+    .navbar-default .navbar-toggle {
+        border-color: #FFBE00;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #FFBE00;
+    }
+
+    .sidbar-social{
+     top: 60%;
+     width: 6%;
+     margin-left: 1%;
+     border-radius: 4px;
+     background: transparent;
+ }
+
+ .sidbar-social a{
+
+    color: #FFBE00; 
+    border-radius: 2px;
+    background-color: white;
+}
+
+#panier{
+    top: 10px;
+}
+#panier i {
+    box-shadow: -12px 15px 15px #f0ad4e;
+}
+
+#panier a{
+
+
+    color: #FFBE00; 
+    border-radius: 2px;
+}
+i {
+    border-radius: 2px;
+}
+/*tous les a sous nav */
+nav  a {
+    color: white; 
+    font: sans-serif;
+    font-style: normal;
+}
+
+
+
+nav>li>a{
+
+    color: white; 
+    font: sans-serif;
+    font-style: normal;
+}
+nav .lienpc a{
+    color: #5BC0DE; 
+    font: sans-serif;
+    font-style: normal;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fff; 
+}
+
+.newst-block{
+    background-color: #FF6A05;
+    border-radius: 4px;
+    margin: 5px;
+
+
+}

@@ -1,0 +1,26 @@
+.sf-menu li {
+       background-color:#1999F1;
+       border-radius:5px;
+     
+       }
+       
+       .sf-menu a:hover {
+       border-radius:5px 
+       }
+       
+       .sf-menu a {
+       color:#85BEE5;
+       border-left:0px solid #1999F1;
+     
+       }
+       
+       .sf-menu .active, .sf-menu li:hover, .sf-menu li.sfHover, .sf-menu a:focus, .sf-menu a:hover, .sf-menu a:active {
+       background-image:none;
+       border-radius:4px;
+     
+       }
+       
+       .sf-menu {
+       background-image:none;
+       float:left;
+     }
